@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="76.448044"
-   height="58.449593"
+   width="98.98674"
+   height="103.51285"
    id="svg42589"
    version="1.1"
    inkscape:version="0.48.1 r9760"
@@ -32,24 +32,49 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7666667"
-     inkscape:cx="-25.271845"
-     inkscape:cy="-27.96643"
+     inkscape:zoom="5.5333334"
+     inkscape:cx="41.997897"
+     inkscape:cy="36.747009"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:window-width="2560"
-     inkscape:window-height="1363"
+     inkscape:window-width="1918"
+     inkscape:window-height="1059"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="19"
      inkscape:window-maximized="1"
      fit-margin-top="0.2"
      fit-margin-left="0.3"
      fit-margin-right="0.3"
-     fit-margin-bottom="0.2" />
+     fit-margin-bottom="0.2">
+    <sodipodi:guide
+       orientation="0,1"
+       position="-77.916263,18.205636"
+       id="guide3031" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-125.6271,85.705636"
+       id="guide3033" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="11.72229,68.155636"
+       id="guide3035" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-17.916264,76.885636"
+       id="guide3037" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="86.541566,35.305636"
+       id="guide3043" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-9.9644573,27.025636"
+       id="guide3047" />
+  </sodipodi:namedview>
   <metadata
      id="metadata42594">
     <rdf:RDF>
@@ -66,7 +91,7 @@
      inkscape:label="cut"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(12.137792,-872.14855)">
+     transform="translate(22.414299,-845.29093)">
     <path
        sodipodi:type="arc"
        style="fill:none;stroke:#0000ff;stroke-width:0.12490913;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -76,7 +101,7 @@
        sodipodi:rx="15.535714"
        sodipodi:ry="15.535714"
        d="m 33.928571,87.321426 a 15.535714,15.535714 0 1 1 -31.0714286,0 15.535714,15.535714 0 1 1 31.0714286,0 z"
-       transform="matrix(0.64592179,0,0,0.6459218,13.933658,845.27967)" />
+       transform="matrix(0.64592179,0,0,0.6459218,15.133065,840.64454)" />
     <path
        sodipodi:type="arc"
        style="fill:none;stroke:#ff0000;stroke-width:0.83904648;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -86,6 +111,27 @@
        sodipodi:rx="30.361444"
        sodipodi:ry="29.638554"
        d="m -214.6988,-94.441971 a 30.361444,29.638554 0 1 1 -60.72289,0 30.361444,29.638554 0 1 1 60.72289,0 z"
-       transform="matrix(0.5236804,0,0,0.5364527,154.14725,952.34613)" />
+       transform="matrix(0.5236804,0,0,0.5364527,155.34666,947.71101)" />
+    <g
+       id="g3821">
+      <rect
+         y="863.49658"
+         x="4.7190905"
+         height="67.101486"
+         width="44.588642"
+         id="rect3029"
+         style="fill:none;stroke:#ff0000;stroke-width:0.41135877;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <path
+         transform="translate(-22.414299,845.29093)"
+         inkscape:connector-curvature="0"
+         id="path3049"
+         d="m 26.927711,26.627212 c 44.819276,0 44.999999,0 44.999999,0 l 0,0"
+         style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3051"
+         d="m 49.242327,921.77814 c -44.638554,0 -44.457831,0 -44.457831,0"
+         style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
   </g>
 </svg>
