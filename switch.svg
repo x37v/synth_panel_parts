@@ -33,7 +33,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.5333334"
-     inkscape:cx="41.997897"
+     inkscape:cx="11.997897"
      inkscape:cy="36.747009"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
@@ -113,7 +113,8 @@
        d="m -214.6988,-94.441971 a 30.361444,29.638554 0 1 1 -60.72289,0 30.361444,29.638554 0 1 1 60.72289,0 z"
        transform="matrix(0.5236804,0,0,0.5364527,155.34666,947.71101)" />
     <g
-       id="g3821">
+       id="g3821"
+       transform="matrix(0.97826089,0,0,0.99980974,0.5872475,0.17067204)">
       <rect
          y="863.49658"
          x="4.7190905"
